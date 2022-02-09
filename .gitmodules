@@ -1,0 +1,3 @@
+[submodule "managingpackageswithnpm"]
+	path = managingpackageswithnpm
+	url = https://github.com/AbreuY/boilerplate-npm
