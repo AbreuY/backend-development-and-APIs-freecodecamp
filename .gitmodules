@@ -4,6 +4,3 @@
 [submodule "basicnodeandexpress"]
 	path = basicnodeandexpress
 	url = https://github.com/AbreuY/boilerplate-express.git
-[submodule "mongodbandmongoose"]
-	path = mongodbandmongoose
-	url = https://github.com/AbreuY/boilerplate-mongomongoose.git
