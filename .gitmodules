@@ -1,3 +1,6 @@
 [submodule "managingpackageswithnpm"]
 	path = managingpackageswithnpm
 	url = https://github.com/AbreuY/boilerplate-npm
+[submodule "basicnodeandexpress"]
+	path = basicnodeandexpress
+	url = https://github.com/AbreuY/boilerplate-express.git
