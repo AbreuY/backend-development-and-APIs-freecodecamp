@@ -7,3 +7,6 @@
 [submodule "mongodbandmongoose"]
 	path = mongodbandmongoose
 	url = https://github.com/AbreuY/boilerplate-mongomongoose.git
+[submodule "urlshortener"]
+	path = urlshortener
+	url = https://github.com/AbreuY/boilerplate-project-urlshortener.git
